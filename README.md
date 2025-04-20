@@ -25,7 +25,8 @@
 
        But, in the end, 
          amidst ,
-     flickering monitors and echoing thunder;
+     flickering monitors 
+              and echoing thunder;
      
      they concluded that Dr. Taylor's 'disappearance'
         was A :meticulously orchestrated cover-up
