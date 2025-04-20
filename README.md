@@ -1,4 +1,4 @@
-<sp> *-# #CtrlCMystery
+<sp> *-# #CtrlCMystery<br>
 <br>Delving into the spurious nature of control-c 
 <br>aka:
 <sp>The Copy Command . . .<br> 
@@ -29,9 +29,9 @@
               and echoing thunder;
      
      they concluded that Dr. Taylor's 'disappearance'
-        was A :meticulously orchestrated cover-up
-      :A narrative where technological intricacies mirrored the 
-      human pursuit of knowledge;
+        was; A :meticulously orchestrated cover-up
+      :A narrative where technological intricacies 
+    mirrored the 'human' pursuit of knowledge;
       
     and the concealed dangers of software conflicts./ 🌤
     
