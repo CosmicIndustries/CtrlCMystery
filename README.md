@@ -1,11 +1,13 @@
 <sp> *-# #CtrlCMystery<br>
-<br>Delving into the spurious nature of control-c 
+<br>'  Delving into the spurious nature of control-c 
 <br>aka:
 <sp>The Copy Command . . .<br> 
  
-"  In the heart of the downtown, Detective Alex Grey found themselves embroiled in what locals had dubbed; 
-   <br>"The Ctrl+C Mystery."<br> 
-" Dr. Morgan Taylor, a renowned scientist known for pushing the boundaries of quantum algorithms, had vanished without a trace from their high-security lab. As Grey delved deeper into the investigation, a pattern emerged amidst the stormy backdrop of technical anomalies. 
+"  In the heart of the downtown, <sbr>
+Detective Alex Grey found themselves embroiled in what locals had dubbed; 
+  <br> <br>"The Ctrl+C Mystery."<br> <br>
+" Dr. Morgan Taylor, <sbr>
+  a renowned scientist known for pushing the boundaries of quantum algorithms, had vanished without a trace from their high-security lab. <sp>As Grey delved deeper into the investigation, a pattern emerged amidst the stormy backdrop of technical anomalies. 
     
     "It wasn't the work of malware😈, as feared by some, 
     but rather a maze of software🕷bugs and configuration 
